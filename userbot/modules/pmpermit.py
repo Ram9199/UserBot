@@ -16,10 +16,10 @@ from userbot import (COUNT_PM, HELPER, LOGGER, LOGGER_GROUP, NOTIF_OFF,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("Bleep blop! This is a bot. Don't fret.\n\n"
-                  "My master hasn't approved you to PM."
-                  " Please wait for my master to look in, he mostly approves PMs.\n\n"
-                  "As far as I know, he doesn't usually approve retards though.")
+UNAPPROVED_MSG = (" Hey!I am personalized AI Created by sriram.\n\n"
+                  " He is busy won't be available to take pm directly."
+                  " Please leave your msg here @LeoExtended_bot.\n\n"
+                  " Don't spam or else you will block automatically.")
 # =================================================================
 
 
